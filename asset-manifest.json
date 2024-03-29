@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-timer/static/css/main.d3c3fa47.css",
+    "main.js": "/my-timer/static/js/main.21d1e98f.js",
+    "static/js/453.6bf17412.chunk.js": "/my-timer/static/js/453.6bf17412.chunk.js",
+    "static/media/night.jpg": "/my-timer/static/media/night.afa05b293117177cb94e.jpg",
+    "index.html": "/my-timer/index.html",
+    "main.d3c3fa47.css.map": "/my-timer/static/css/main.d3c3fa47.css.map",
+    "main.21d1e98f.js.map": "/my-timer/static/js/main.21d1e98f.js.map",
+    "453.6bf17412.chunk.js.map": "/my-timer/static/js/453.6bf17412.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c3fa47.css",
+    "static/js/main.21d1e98f.js"
+  ]
+}
